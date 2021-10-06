@@ -18,6 +18,7 @@ Enjoy your Hacktoberfest
 
 ## List of articles 📰
 
+- [How To Contribute to Open Source: Getting Started with Git by Lisa Tagliaferri](/articles/Installing_Git.md)
 - [From Free Software to Open Source](articles/from-free-software-to-open-source.md)
 - [Build open source software, by Eric Raymond](/articles/build-open-source-software-raymond.md)
 
