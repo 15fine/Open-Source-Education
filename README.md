@@ -18,9 +18,16 @@ Enjoy your Hacktoberfest
 
 ## List of articles 📰
 
-- [How To Contribute to Open Source: Getting Started with Git by Lisa Tagliaferri](/articles/Installing_Git.md)
-- [From Free Software to Open Source](articles/from-free-software-to-open-source.md)
+### Understand Open Source
+- [From Free Software to Open Source](/articles/from-free-software-to-open-source.md)
+- [Evolution of Free and Open Source software acceptance](/articles/evolution-foss-acceptance.md)
+
+### Build Open Source project
 - [Build open source software, by Eric Raymond](/articles/build-open-source-software-raymond.md)
+
+### Contribute to Open Source
+
+- `git` tutorial [[Work in progress](https://github.com/AbcSxyZ/Open-Source-Education/pull/12)]
 
 ## Resources 💾
 
